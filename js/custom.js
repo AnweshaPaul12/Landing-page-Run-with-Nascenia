@@ -81,7 +81,7 @@ $( document ).ready(function() {
  		{
  			 $('#counter-days-only').countdownCube( {
  			 	target: targetDateStringUTC,
- 			 	cubeSize: 70,
+ 			 	cubeSize: 50,
  			 	showDaysOnly: true,
  			 	color: 'white',
  			 });
